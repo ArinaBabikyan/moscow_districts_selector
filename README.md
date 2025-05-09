@@ -2,7 +2,8 @@
  
 This website is used to mainly keep track of visited districts in Moscow. You can select and deselect the district of your preference. Enjoy!
 
-The beta-version is published at the url: https://moscow-districts-selector.onrender.com/.
+The beta-version is published at the url: https://moscow-districts-selector.onrender.com/. Recommended browser: Chrome. 
+
 
 ## Running Locally
 
@@ -30,7 +31,7 @@ python3 manage.py runserver
 
 Этот сайт создан для того, чтобы отмечать посещенные районы Москвы. 
 
-Бета версия опубликована по ссылке: https://moscow-districts-selector.onrender.com/.
+Бета версия опубликована по ссылке: https://moscow-districts-selector.onrender.com/. Рекомендуемый браузер: Chrome.
 
 Для улучшенной работы сервиса рекомендуется установить проект на ПК и запускать локально. 
 
